@@ -9,13 +9,15 @@ A list of papers on photography guidance and image retouching. Focus on agentic 
 - `[CVPR 2026]` AceTone: Bridging Words and Colors for Conditional Image Grading [[paper]](https://arxiv.org/abs/2604.00530) [[code]](https://github.com/martian422/AceTone)
 - `[ICML 2026]` PhotoAgent: Exploratory Visual Aesthetic Planning with Large Vision Models [[paper]](https://arxiv.org/abs/2602.22809) [[code]](https://github.com/mdyao/PhotoAgent)
 - `[CVPR 2026]` RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward [[paper]](https://arxiv.org/abs/2602.17558)
+- `[AAAI 2026]` RetouchAgent: Towards Interactive and Explainable Image Retouching with MLLM Agents [[paper]](https://doi.org/10.1609/aaai.v40i35.40237)
 - `[CVPR 2026]` JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization [[paper]](https://arxiv.org/abs/2511.23002) [[code]](https://github.com/LYL1015/JarvisEvo) [[project page]](https://jarvisevo.vercel.app/)
 - `[AAAI 2026]` PerTouch: VLM-Driven Agent for Personalized and Semantic Image Retouching [[paper]](https://arxiv.org/abs/2511.12998) [[code]](https://github.com/Auroral703/PerTouch)
 - `[2025]` RetouchLLM: Training-free Code-based Image Retouching with Vision Language Models [[paper]](https://arxiv.org/abs/2510.08054)
 - `[2025]` Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder [[paper]](https://arxiv.org/abs/2509.12883) [[code]](https://github.com/xiaomi-research/lego-edit)
 - `[NeurIPS 2025]` JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent [[paper]](https://arxiv.org/abs/2506.17612) [[code]](https://github.com/LYL1015/JarvisArt) [[project page]](https://jarvisart.vercel.app/)
-- `[2025]` PhotoArtAgent: Intelligent Photo Retouching with Language Model-Based Artist Agents [[paper]](https://arxiv.org/abs/2505.23130)
+- `[CVPR 2026 Findings]` PhotoArtAgent: Intelligent Photo Retouching with Language Model-Based Artist Agents [[paper]](https://arxiv.org/abs/2505.23130)
 - `[SIGGRAPH 2025]` MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills [[paper]](https://arxiv.org/abs/2505.06176) [[code]](https://github.com/niladridutt/monetGPT) [[project page]](https://monetgpt.github.io)
+- `[AAAI 2025]` RetouchGPT: LLM-based Interactive High-Fidelity Face Retouching via Imperfection Prompting [[paper]](https://doi.org/10.1609/aaai.v39i9.32980) [[code]](https://github.com/Davidcoach/RetouchGPT)
 
 ## Image Cropping & Composition
 - `[2026]` FrameLite: Decision-Oriented Aesthetic Cropping with a Compact Vision-Language Model [[paper]](https://arxiv.org/abs/2610.17639) [[code]](https://github.com/JianzeLi-114/FrameLite)
