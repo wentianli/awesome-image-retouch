@@ -37,6 +37,7 @@ A list of papers on photography guidance and image retouching. Focus on agentic 
 - `[2026]` GeoComposer: Geometry-Grounded Photographic Composition Instruction [[paper]](https://arxiv.org/abs/2609.26620)
 - `[2026]` ShutterMuse: Capture-Time Photography Guidance with MLLMs [[paper]](https://arxiv.org/abs/2606.25763) [[project page]](https://lijayutnt.github.io/ShutterMuse/)
 - `[2026]` Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes [[paper]](https://arxiv.org/abs/2605.30318)
+- `[NeurIPS 2026]` PhotoFlow: Agentic 3D Virtual Photography Missions [[paper]](https://arxiv.org/abs/2605.23771) [[code]](https://github.com/Visionary-Laboratory/PhotoFlow)
 - `[CVPR 2026]` Venus: Benchmarking and Empowering Multimodal Large Language Models for Aesthetic Guidance and Cropping [[paper]](https://arxiv.org/abs/2602.23980) [[code]](https://github.com/PKU-ICST-MIPL/Venus_CVPR2026)
 - `[CVPR 2026]` How to Take a Memorable Picture? Empowering Users with Actionable Feedback (MemCoach) [[paper]](https://arxiv.org/abs/2602.21877) [[code]](https://github.com/laitifranz/MemCoach) [[project page]](https://laitifranz.github.io/MemCoach/)
 - `[CVPR 2026]` Aesthetic Camera Viewpoint Suggestion with 3D Aesthetic Field [[paper]](https://arxiv.org/abs/2602.20363) [[project page]](https://sheyangtang.com/aesthetic-field/)
