@@ -38,16 +38,18 @@ A list of papers on photography guidance and image retouching. Focus on agentic 
 ## Photography Guidance & Composition
 - `[2026]` GeoComposer: Geometry-Grounded Photographic Composition Instruction [[paper]](https://arxiv.org/abs/2609.26620)
 - `[2026]` ShutterMuse: Capture-Time Photography Guidance with MLLMs [[paper]](https://arxiv.org/abs/2606.25763) [[project page]](https://lijayutnt.github.io/ShutterMuse/)
-- `[2026]` Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes [[paper]](https://arxiv.org/abs/2605.30318)
-- `[NeurIPS 2026]` PhotoFlow: Agentic 3D Virtual Photography Missions [[paper]](https://arxiv.org/abs/2605.23771) [[code]](https://github.com/Visionary-Laboratory/PhotoFlow)
 - `[CVPR 2026]` Venus: Benchmarking and Empowering Multimodal Large Language Models for Aesthetic Guidance and Cropping [[paper]](https://arxiv.org/abs/2602.23980) [[code]](https://github.com/PKU-ICST-MIPL/Venus_CVPR2026)
 - `[CVPR 2026]` How to Take a Memorable Picture? Empowering Users with Actionable Feedback (MemCoach) [[paper]](https://arxiv.org/abs/2602.21877) [[code]](https://github.com/laitifranz/MemCoach) [[project page]](https://laitifranz.github.io/MemCoach/)
-- `[CVPR 2026]` Aesthetic Camera Viewpoint Suggestion with 3D Aesthetic Field [[paper]](https://arxiv.org/abs/2602.20363) [[project page]](https://sheyangtang.com/aesthetic-field/)
 - `[CVPR 2026]` PhotoFramer: Multi-modal Image Composition Instruction [[paper]](https://arxiv.org/abs/2512.00993) [[code]](https://github.com/zhiyuanyou/PhotoFramer-Assessment) [[project page]](https://zhiyuanyou.github.io/photoframer)
 - `[NeurIPS 2025]` Photography Perspective Composition: Towards Aesthetic Perspective Recommendation [[paper]](https://arxiv.org/abs/2505.20655) [[code]](https://github.com/vivoCameraResearch/PPC-Official)
+
+## Virtual Photography
+- `[2026]` Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes [[paper]](https://arxiv.org/abs/2605.30318)
+- `[NeurIPS 2026]` PhotoFlow: Agentic 3D Virtual Photography Missions [[paper]](https://arxiv.org/abs/2605.23771) [[code]](https://github.com/Visionary-Laboratory/PhotoFlow)
+- `[CVPR 2026]` Aesthetic Camera Viewpoint Suggestion with 3D Aesthetic Field [[paper]](https://arxiv.org/abs/2602.20363) [[project page]](https://sheyangtang.com/aesthetic-field/)
 
 ## Robotic Photography
 - `[ICRA 2026]` PhotoAgent: A Robotic Photographer with Spatial and Aesthetic Understanding [[paper]](https://arxiv.org/abs/2603.22796) [[code]](https://github.com/bigsawman/PhotoAgent)
 
-### Video Color Grading
+## Video Color Grading
 - `[2026]` LumiVideo: An Intelligent Agentic System for Video Color Grading [[paper]](https://arxiv.org/abs/2604.02409) [[project page]](https://eurekaarrow.github.io/LumiVideo/)
